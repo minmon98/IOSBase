@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  SavvycomIOSBase
+
+  Created by Minh Mon on 30/12/2022.
+  
+*/
+
+"error.network" = "Network Error";
+"error.timeout" = "Timeout Error";
+"error.common" = "Error";
+"loading.title" = "Loading";
+"action.ok" = "OK";
+"action.cancel" = "Cancel";
+"action.login" = "Login";
+"alert.title" = "Alert";

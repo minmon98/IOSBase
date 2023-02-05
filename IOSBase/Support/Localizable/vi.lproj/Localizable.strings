@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  SavvycomIOSBase
+
+  Created by Minh Mon on 30/12/2022.
+  
+*/
+
+"error.network" = "Lỗi kết nối mạng";
+"error.timeout" = "Lỗi quá thời gian yêu cầu";
+"error.common" = "Lỗi";
+"loading.title" = "Đang tải";
+"action.ok" = "Đồng ý";
+"action.cancel" = "Thoát";
+"action.login" = "Đăng nhập";
+"alert.title" = "Thông báo";
